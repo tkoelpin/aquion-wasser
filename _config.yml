@@ -1,4 +1,5 @@
-remote_theme: jekyll-theme-clean-blog
+remote_theme: creative-theme-jekyll
+# remote_theme: jekyll-theme-clean-blog
 # theme: minima
 title: Aquion Blog
 author: Tobias Kölpin
