@@ -1,6 +1,16 @@
-{% assign m = include.date %}
-{{ include.date | date: "%d." }}
-{% case m %}
+{% assign weekday = include.date | date: "%w" %}
+{% assign month = include.date | date: "%m" %}
+{% case weekday %}
+  {% when '0' %}Sonntag
+  {% when '1' %}Montag
+  {% when '2' %}Dienstag
+  {% when '3' %}Mittwoch
+  {% when '4' %}Donnerstag
+  {% when '5' %}Freitag
+  {% when '6' %}Samstag  
+{% endcase %}
+{{ include.date | date: ", den %d." }}
+{% case month %}
   {% when '1' %}Januar
   {% when '2' %}Februar
   {% when '3' %}M&auml;rz
