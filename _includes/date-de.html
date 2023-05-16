@@ -1,25 +1,25 @@
 {% assign weekday = include.date | date: "%w" %}
 {% assign month = include.date | date: "%m" %}
 {% case weekday %}
-  {% when '0' %}Sonntag
-  {% when '1' %}Montag
-  {% when '2' %}Dienstag
-  {% when '3' %}Mittwoch
-  {% when '4' %}Donnerstag
-  {% when '5' %}Freitag
-  {% when '6' %}Samstag  
+  {% when '0' %}Sonntag,
+  {% when '1' %}Montag,
+  {% when '2' %}Dienstag,
+  {% when '3' %}Mittwoch,
+  {% when '4' %}Donnerstag,
+  {% when '5' %}Freitag,
+  {% when '6' %}Samstag,  
 {% endcase %}
-{{ include.date | date: ", den %d." }}
+{{ include.date | date: "den %d." }}
 {% case month %}
-  {% when '1' %}Januar
-  {% when '2' %}Februar
-  {% when '3' %}M&auml;rz
-  {% when '4' %}April
-  {% when '5' %}Mai
-  {% when '6' %}Juni
-  {% when '7' %}Juli
-  {% when '8' %}August
-  {% when '9' %}September
+  {% when '01' %}Januar
+  {% when '02' %}Februar
+  {% when '03' %}M&auml;rz
+  {% when '04' %}April
+  {% when '05' %}Mai
+  {% when '06' %}Juni
+  {% when '07' %}Juli
+  {% when '08' %}August
+  {% when '09' %}September
   {% when '10' %}Oktober
   {% when '11' %}November
   {% when '12' %}Dezember
