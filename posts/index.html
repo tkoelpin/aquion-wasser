@@ -17,7 +17,7 @@ background: '/assets/img/bg-post.jpg'
   </a>
   <p class="post-meta">Geschrieben von
     {% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %}
-    am {% include date-de.html post.date %} &middot; {% include read_time.html content=post.content %}
+    am {% include date-de.html date=post.date %} &middot; {% include read_time.html content=post.content %}
   </p>
 </article>
 
