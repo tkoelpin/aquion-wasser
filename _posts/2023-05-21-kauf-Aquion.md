@@ -18,7 +18,8 @@ musste.
 ## Sa., den 15. April 2023
 
 Frau Männer vom `Aquion GmbH` und ich haben an diesem Nachmittag via Webtelefonie versucht, dass ich mein
-[`Aquion FreeSpirit®`](https://fea.team-aquion.com/) eigenständig an den Wasseranschluss installiere.
+[`Aquion FreeSpirit®`](https://fea.team-aquion.com/) eigenständig an den Wasseranschluss installiere, da ich keinen
+Installateur haben wollte.
 
 Der erste Testversuch am Abend schlug fehl, da der Frischwasser-Schlauch am
 [`Aquion FreeSpirit®`](https://fea.team-aquion.com/) nicht korrekt angeschlossen war - das heißt unter dem
@@ -26,8 +27,8 @@ Der erste Testversuch am Abend schlug fehl, da der Frischwasser-Schlauch am
 Steckdose und versuchte die große Wasserlache unter dem [`Aquion FreeSpirit®`](https://fea.team-aquion.com/)
 trockenzulegen.
 
-Währenddessen beendete Frau Männer das Gespräch mit mir und sie schlug mir vor, dass wir die Installation am kommenden
-Tag via Webtelefonie erneut versuchen sollten.
+Währenddessen beendete Frau Männer um ca. 23 Uhr das Gespräch mit mir und sie schlug mir vor, dass wir die Installation
+am kommenden Tag via Webtelefonie erneut versuchen sollten.
 
 ## So., den 16. April 2023
 
