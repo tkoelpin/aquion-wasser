@@ -1,8 +1,9 @@
 remote_theme: jekyll-theme-clean-blog
-# theme: minima
 title: Aquion Blog
 description: Wichtige Lebenserkenntnisse mit Aquion
 author: Tobias Kölpin
-email: t.koelpin@web.de
+email: t.koelpin(at)web.de
 tiktok_username: t.koelpin
 github_username: tkoelpin
+paginate: 5
+paginate_path: "/blog/page:num/"
